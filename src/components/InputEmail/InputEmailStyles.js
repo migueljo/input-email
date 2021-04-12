@@ -29,4 +29,5 @@ export const InputEmail = styled.input`
   line-height: 20px;
   color: #1A1818;
   width: 100%;
+  min-width: 130px;
 `
