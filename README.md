@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Improvements
+
+- Remove last email entered using "Backspace" when the input email is empty
+- Allow to navigate the email dropdown using arrow keys
+- Use variables for colors to improve re-usability
+- Using a paginated API service to request only the emails in the user email book that matches the value in the input
+- Document code
