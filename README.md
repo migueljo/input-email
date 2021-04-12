@@ -76,3 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Use variables for colors to improve re-usability
 - Using a paginated API service to request only the emails in the user email book that matches the value in the input
 - Document code
+- Add automated tests
